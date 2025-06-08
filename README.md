@@ -1,0 +1,1 @@
+Music.app Missing Track Relinker is a hybrid Python + AppleScript tool that scans your Apple Music (formerly iTunes) library for missing tracks, and helps automatically relink them to the correct a…
